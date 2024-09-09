@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itambernim.github.io/sitemap.html.gz
+Sitemap: https://itambernim.github.io/app/sitemap.html.gz
+Sitemap: https://itambernim.github.io/assets/sitemap.html.gz
+Sitemap: https://itambernim.github.io/css/sitemap.html.gz
+Sitemap: https://itambernim.github.io/includes/sitemap.html.gz
+Sitemap: https://itambernim.github.io/item/sitemap.html.gz
+Sitemap: https://itambernim.github.io/src/sitemap.html.gz
